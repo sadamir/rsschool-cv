@@ -9,7 +9,7 @@ ___
 ___
 
 #### About myself:
-Currently I'm working as a Supervisor Air Traffic Controller. Throughout my career in aviation industry which is currently almost 8 years, I've been thinking about returning into an IT industry, because I've graduated IT univeristy in 2012, but due to personal issues I had to switch my career path in 2013. Now is the time to get back to basics. I believe that I will become Front-End Developer in 2022.
+Currently I'm working as a Supervisor Air Traffic Controller. Throughout my career in aviation industry which is currently almost 8 years, I've been thinking about returning into an IT industry, because I've graduated IT univeristy in 2012, but due to personal issues I had to switch my career path in 2013. I believe that I will become Front-End Developer in 2022.
 ___
 
 #### Skills:
