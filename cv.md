@@ -3,7 +3,7 @@ ___
 
 #### Contacts:
 **Discord:** Amirkhan#4200
-**E-mail:** a.saduanov19@gmail.com
+**E-mail:** a.saduanov##@gmail.com
 **Mobile:** +7 708 760 ## ##
 
 ___
